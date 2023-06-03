@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class DijkstraAlgorithm {
+public class Dijkstra {
     private static final int INFINITY = Integer.MAX_VALUE;
 
     public static void dijkstra(List<List<Node>> graph, int source) {
